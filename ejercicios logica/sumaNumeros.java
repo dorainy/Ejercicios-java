@@ -1,6 +1,7 @@
 import java.util.Scanner;
 public class sumaNumeros {
     public static void main(String[] args) {
+       
         Scanner scanner = new Scanner(System.in);
         System.out.println("Ingresa el numero");
         int number = scanner.nextInt();

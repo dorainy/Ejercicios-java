@@ -2,6 +2,7 @@ package abstracta;
 
 public class circulo extends figura {
 
+    
     private double radio;
 
     public circulo(double radio) {

@@ -1,6 +1,7 @@
 package metodos;
 
 public class Setters {
+    
     public static void main(String[] args) {
         
         Alumno alu1 = new Alumno();

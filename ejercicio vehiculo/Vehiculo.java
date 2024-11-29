@@ -5,6 +5,7 @@ public abstract class Vehiculo {
     protected String modelo;
     protected int anio;
     
+    
     public Vehiculo(String marca, String modelo, int anio) {
         this.marca = marca;
         this.modelo = modelo;

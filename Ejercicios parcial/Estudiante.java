@@ -7,6 +7,7 @@ class Estudiante {
  
 
     public Estudiante(String nombre, int edad, int codigo, String carrera){
+        
         this.nombre = nombre;
         this.edad = edad;
         this.codigo = codigo;

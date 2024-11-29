@@ -8,6 +8,7 @@ public class persona {
     public persona(){
 
     }
+    
     public persona(int num, String nombre, int edad){
         this.num = num;
         this.nombre = nombre;

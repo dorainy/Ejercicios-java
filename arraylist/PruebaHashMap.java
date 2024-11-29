@@ -8,6 +8,7 @@ public class PruebaHashMap {
         
         Map <Integer, String> mapaEmpleados = new HashMap<>();
 
+       
         mapaEmpleados.put(1523, "suscribeee");
         mapaEmpleados.put(1545, "dorainyyy");
         mapaEmpleados.put(1524, "lunaaa");

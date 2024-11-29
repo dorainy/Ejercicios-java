@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class GestorEstudiantes {
     public static void main(String[] args) {
+        
         Scanner scanner = new Scanner(System.in);
         List<Estudiante> estudiantes = new ArrayList<>(); 
 

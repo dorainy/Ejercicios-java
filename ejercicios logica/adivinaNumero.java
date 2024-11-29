@@ -6,6 +6,7 @@ public class adivinaNumero {
         System.out.println("ingrese la palabra");
         String palindromo = scanner.nextLine();
         
+        
         char[] arrayPalindromo = palindromo.toCharArray();
 
         for(int i = 0 ; i < arrayPalindromo.length; i++){

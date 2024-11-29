@@ -3,6 +3,7 @@ package interfaces;
 
 public class Cuadrado implements Figura, Dibujable {
 
+    
     private double lado;
 
 

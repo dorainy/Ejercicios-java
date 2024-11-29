@@ -1,6 +1,7 @@
 import java.util.Scanner;
 public class anidado {
     public static void main(String[] args) {
+        
         Scanner scanner = new Scanner(System.in);
         System.out.println("ingrese el numero");
         int num = scanner.nextInt();

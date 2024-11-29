@@ -5,6 +5,7 @@ import java.util.List;
 
 public class LinkedList {
     public static void main(String[] args) {
+        
         List <persona> lista = new LinkedList()<persona>();
         lista.add(new persona(1,"dorainy",30));
         lista.add(new persona(2,"luna",30));

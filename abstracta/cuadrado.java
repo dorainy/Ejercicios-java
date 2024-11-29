@@ -2,6 +2,7 @@ package abstracta;
 
 public class cuadrado extends figura {
 
+    
     private double lado;
 
     public cuadrado(){

@@ -8,6 +8,7 @@ public class Circulo implements Figura, Dibujable,Rotable {
 
     }
 
+   
     public Circulo(double radio) {
         this.radio = radio;
     }

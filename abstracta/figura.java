@@ -3,6 +3,7 @@ package abstracta;
 public abstract class figura {
 
     protected double x;
+    
     protected double y;
 
     protected figura(){

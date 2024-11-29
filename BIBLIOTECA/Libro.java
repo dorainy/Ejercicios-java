@@ -7,6 +7,7 @@ public class Libro {
     private boolean estado;
     
 
+    
     public Libro(String titulo, String autor, String isbn, boolean estado) {
         this.titulo = titulo;
         this.autor = autor;
